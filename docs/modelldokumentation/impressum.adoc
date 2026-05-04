@@ -6,11 +6,11 @@
 ====
 [cols="1, 3"]
 |===
-| Erstelldatum | 2024-01-01
+| Erstelldatum | 2025-01-23
 | letzte Änderung | {docdate}
-| Themen-Nummer | Annn
-| ID nach kGeoiV | --- 
-| Beteiligte | Person 1, Fachexperte (Kürzel 1), Amt 1 + 
+| Themen-Nummer | A099
+| ID nach kGeoiV | 99.9 
+| Beteiligte | Silvana Deplazes, Fachexperte (sde), Amt für Geoinformation + 
 Kuno Epper, Modellierer (kep), Amt für Geoinformation
 |===
 ====
