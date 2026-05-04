@@ -1,5 +1,5 @@
 // Hier den Titel eingeben
-:title: Testthema sde (A099)
+:title: Testthema sde (T099)
 :subtitle: Modelldokumentation
 ifdef::backend-pdf[]
 = {title}
@@ -38,7 +38,7 @@ image:{myImage}[logo kt sz rgb]
 //****
 
 //* https://ch-sz-geo.github.io/A000_entrypage/[zur Startseite] +
-//* https://amandawetter.github.io/A000_Rebuild/[Übersicht A099 Dokumentation] +
+//* https://amandawetter.github.io/A000_Rebuild/[Übersicht T099 Dokumentation] +
 //* https://amandawetter.github.io/A000_Rebuild/docs/modelldokumentation.pdf[Dokumentation als PDF] +
 
 //****

@@ -1,10 +1,10 @@
 // Erklärung und Link auf Website
 ifdef::env-github[]
 [discrete]
-= Testthema sde (A099)
-Sie befinden sich auf der Startseite des Themas **"Testthema sde (A099)"**. Über folgende Links gelangen Sie zu weiteren Informationen:
+= Testthema sde (T099)
+Sie befinden sich auf der Startseite des Themas **"Testthema sde (T099)"**. Über folgende Links gelangen Sie zu weiteren Informationen:
 
-* https://ch-sz-geo.github.io/A099/[Daten, Datenmodell, Modellbeschreibung, Erfassungsrichtlinie usw.] zu diesem Thema
+* https://ch-sz-geo.github.io/T099/[Daten, Datenmodell, Modellbeschreibung, Erfassungsrichtlinie usw.] zu diesem Thema
 * https://ch-sz-geo.github.io/A000_entrypage/[Einstiegsseite] mit weiteren Themenbeschreibungen
 * https://data.geo.sz.ch/public/Themen/Themenliste.xml[Übersicht der Themen] mit der Zusammenstellung weiterer Beschreibungen
 endif::[]
